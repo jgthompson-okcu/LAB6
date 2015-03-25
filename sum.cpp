@@ -13,6 +13,6 @@ int main()
 	cin  >> x;
 	cout << "enter y\n";
 	cin >> y;
-	cout << "x+y=" << x+y;
+	cout << "Answer:  x + y = " << x+y;
  	return 0;
 }
