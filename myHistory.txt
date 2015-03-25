@@ -1,0 +1,219 @@
+    1  ls
+    2  ?
+    3  man
+    4  man man
+    5  ssh -l ocucs041 boomer.oscer.ou.edu
+    6  exot
+    7  exit
+    8  emacs
+    9  ls
+   10  g:
+   11  emacs
+   12  bash --login -i
+   13  emacs test.txt
+   14  ls
+   15  cd LAB5
+   16  ls
+   17  history
+   18  cat makefile
+   19  cat classLife.cpp
+   20  pwd
+   21  ls
+   22  md LAB5
+   23  mkdir LAB5
+   24  cd lab5
+   25  dir
+   26  ls
+   27  ls > hereIam.txt
+   28  startx
+   29  make
+   30  rename makefile.txt makefile
+   31  make
+   32  ls -All
+   33  cp makefile.txt makefile
+   34  rm makefile.txt
+   35  ls
+   36  make
+   37  gcc -c classLife
+   38  gcc -c classLife.o
+   39  gcc -c classLife.c
+   40  gcc -c classLife.cpp
+   41  typescript
+   42  script
+   43  ls -All
+   44  type makefile
+   45  less makefile
+   46  make clean
+   47  make
+   48  classLife
+   49  ls -All
+   50  classLife.exe
+   51  .\classLife
+   52  .\classLife.exe
+   53  ./classLife.exe
+   54  make
+   55  ./classLife.exe
+   56  makefile
+   57  make
+   58  ./classLife.exe
+   59  make
+   60  make
+   61  ./classLife.exe
+   62  make
+   63  ./classLife.exe
+   64  make
+   65  ./classLife.exe
+   66  make
+   67  ./classLife.exe
+   68  make
+   69  ./classLife.exe
+   70  make
+   71  ./classLife.exe
+   72  akemake
+   73  make
+   74  ./classLife.exe
+   75  make
+   76  ./classLife.exe
+   77  make
+   78  ./classLife.exe
+   79  make
+   80  make
+   81  ./classLife.exe
+   82  type makefile
+   83  ./classLife.exe
+   84  make
+   85  ./classLife.exe
+   86  make
+   87  ./classLife.exe
+   88  make
+   89  ./classLife.exe
+   90  make
+   91  ./classLife.exe
+   92  make
+   93  ./classLife.exe
+   94  make
+   95  make
+   96  ./classLife.exe
+   97  cls
+   98  cls
+   99  clear
+  100  clear
+  101  classLife > classLife.out.txt
+  102  ls
+  103  ./classLife.exe > classLife.output.txt
+  104  ls
+  105  cat
+  106  type
+  107  type classLife.out.txt
+  108  type classLife.output.txt
+  109  less classLife.output.txt
+  110  make
+  111  make
+  112  type classLife.out.txt 
+  113  .\classLife
+  114  .\classLife
+  115  ./classLife
+  116  history > myHistory.txt
+  117  script
+  118  cat makefile
+  119  ls
+  120  cd lab5
+  121  cat makefile
+  122  cat classLife.cpp
+  123  ./classLife.exe
+  124  s
+  125  ls
+  126  ls -All
+  127  make
+  128  make clean
+  129  make
+  130  ./classLife
+  131  classLife > out.txt
+  132  classLife > output.txt
+  133  ./classFile > output.txt
+  134  ls
+  135  ./classFile.exe > output.txt
+  136  ./classLife.exe > output.txt
+  137  cat output.txt
+  138  less output.txt
+  139  history > history.txt
+  140  ls
+  141  git
+  142  cd ..
+  143  cd ..
+  144  cd..
+  145  cd ..
+  146  dir
+  147  ls
+  148  cd home
+  149  ls
+  150  cd Jeff
+  151  ls
+  152  md LAB6
+  153  mkdir LAB6
+  154  cd LAB6
+  155  MKDIR myFirst
+  156  cd myFirst
+  157  touch findme2.txt
+  158  touch hello.cpp
+  159  vim hello.cpp
+  160  pico hello.cpp
+  161  nano hello.cpp
+  162  g++
+  163  g++ hello.cpp
+  164  ls -all
+  165  gcc hello.cpp -o hello.exe
+  166  g++ hello.cpp -o hello.exe
+  167  hello.exe
+  168  .\hello.exe
+  169  ls
+  170  /.hello.exe
+  171  .\hello.exe
+  172  ./hello.exe
+  173  cat hello.cpp
+  174  touch makefile
+  175  make
+  176  make
+  177  git init
+  178  ls
+  179  get add
+  180  git add
+  181  git add .
+  182  git commit
+  183  git commit
+  184  ls
+  185  erase e.exe
+  186  rm a.exe
+  187  ls
+  188  ls
+  189  git commit
+  190  nano hello.cpp
+  191  make
+  192  git commit
+  193  cp hello.cpp githello.cpp
+  194  g++ githello.cpp -o githello.exe
+  195  git commit
+  196  git add .
+  197  git commit
+  198  git add .
+  199  git commit
+  200  githello
+  201  ./githello.exe
+  202  git clone https://githum.com
+  203  git clone https://github.com
+  204  git clone https://github.com/jgthompson-okcu
+  205  cd lab6
+  206  ls
+  207  make
+  208  ls
+  209  cd myfirst
+  210  make
+  211  git commit
+  212  git clone 
+  213  $ git add .
+  214  git remote add origin https://github.com/jgthompson-okcu/LAB6.git
+  215  git push origin master
+  216  git push origin master
+  217  history
+  218  history >ZZ
+  219  history > myHistory.txt
