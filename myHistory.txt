@@ -217,3 +217,38 @@
   217  history
   218  history >ZZ
   219  history > myHistory.txt
+  220  ls
+  221  rm ZZ
+  222  script
+  223  cat typescript
+  224  less typescript
+  225  historycp hello.cpp sum.cpp
+  226  cp hello.cpp sum.cpp
+  227  nano sum.cpp
+  228  type do_git.cmd
+  229  cat do_git.cmd
+  230  git add .
+  231  get commit -m "first commit"
+  232  git commit -m "first commit"
+  233  git remote add origin https://github.com/jgthompson-okcu/LAB6.git
+  234  git push -u origin master
+  235  get pull
+  236  git pull
+  237  nano sum.cpp
+  238  git push
+  239  nano sum.cpp
+  240  git add .
+  241  ./do_git.cmd
+  242  git add .
+  243  git commit
+  244  touch sum.cpp
+  245  git add .
+  246  git commit
+  247  nano sum.cpp
+  248  make
+  249  git add .
+  250  git commit
+  251  cat do_git.cmd
+  252  git remote add origin https://github.com/jgthompson-okcu/LAB6B.git
+  253  git push -u origin master
+  254  history > myHistory.txt
