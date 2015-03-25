@@ -1,3 +1,8 @@
+// Jeffrey G Thompson
+// OKCU.EDU
+// LAB 6
+// March 25 2015
+
 #include <iostream>
 #include <string>
 
